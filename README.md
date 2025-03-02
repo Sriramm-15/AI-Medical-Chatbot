@@ -74,7 +74,7 @@ tfidf = vectorizer.fit_transform(X).toarray()
    ```
 3. Run the chatbot script:
    ```bash
-   python chatbot.py
+   python manage.py runserver
    ```
 
 **How It Works**
