@@ -1,6 +1,5 @@
 # AI-Medical-Chatbot
-An AI-Based Medical Chatbot Model for Infectious Disease Prediction
-**AI Infectious Disease Chatbot**
+**An AI-Based Medical Chatbot Model for Infectious Disease Prediction**
 
 This project is an AI-based chatbot designed to assist users in predicting potential infectious diseases based on their input symptoms. The chatbot utilizes machine learning algorithms and natural language processing (NLP) techniques to analyze symptoms and assess the likelihood of an infectious disease. Additionally, it provides precautionary advice based on the predicted disease to help users take necessary preventive measures.
 
